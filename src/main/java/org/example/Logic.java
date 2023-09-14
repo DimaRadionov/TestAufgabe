@@ -13,6 +13,7 @@ import java.util.List;
 import java.util.Locale;
 
 public class Logic {
+
     private JSONParser parser = new JSONParser();
     private List<String> functions = new ArrayList<>();
     private List<String> filters = new ArrayList<>();
